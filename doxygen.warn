@@ -1,0 +1,570 @@
+warning: source 'README.txt' is not a readable file or directory... skipping.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/default/src/main.c:1: warning: the name 'default/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/grade_pcp/src/main.c:1: warning: the name 'grade_pcp/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/grade_recursion/src/main.c:1: warning: the name 'grade_recursion/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/grade_revive/src/main.c:1: warning: the name 'grade_revive/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/grade_rms/src/main.c:1: warning: the name 'grade_rms/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_0_0/src/main.c:1: warning: the name 'test_0_0/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_0_1/src/main.c:1: warning: the name 'test_0_1/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_0_2/src/main.c:1: warning: the name 'test_0_2/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_1_0/src/main.c:1: warning: the name 'test_1_0/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_1_1/src/main.c:1: warning: the name 'test_1_1/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_1_2/src/main.c:1: warning: the name 'test_1_2/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_1_3/src/main.c:1: warning: the name 'test_1_3/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_1_4/src/main.c:1: warning: the name 'test_1_4/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_2_0/src/main.c:1: warning: the name 'test_2_0/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_2_1/src/main.c:1: warning: the name 'test_2_1/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_2_2/src/main.c:1: warning: the name 'test_2_2/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_3_0/src/main.c:1: warning: the name 'test_3_0/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_3_1/src/main.c:1: warning: the name 'test_3_1/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_3_2/src/main.c:1: warning: the name 'test_3_2/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_4_0/src/main.c:1: warning: the name 'test_4_0/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_4_1/src/main.c:1: warning: the name 'test_4_1/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_4_2/src/main.c:1: warning: the name 'test_4_2/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_5_0/src/main.c:1: warning: the name 'test_5_0/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_5_1/src/main.c:1: warning: the name 'test_5_1/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_6_0/src/main.c:1: warning: the name 'test_6_0/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_6_1/src/main.c:1: warning: the name 'test_6_1/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_6_2/src/main.c:1: warning: the name 'test_6_2/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_7_0/src/main.c:1: warning: the name 'test_7_0/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_7_1/src/main.c:1: warning: the name 'test_7_1/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_7_2/src/main.c:1: warning: the name 'test_7_2/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_7_3/src/main.c:1: warning: the name 'test_7_3/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_8_0/src/main.c:1: warning: the name 'test_8_0/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_9_0/src/main.c:1: warning: the name 'test_9_0/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_9_1/src/main.c:1: warning: the name 'test_9_1/main.c' supplied as the argument in the \file statement is not an input file
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/grade_pcp/src/main.c:37: warning: Compound arg_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_7_2/src/main.c:38: warning: Compound arg_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_7_3/src/main.c:60: warning: Compound arg_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_8_0/src/main.c:41: warning: Compound arg_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_9_1/src/main.c:31: warning: Compound arg_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/grade_revive/src/main.c:23: warning: Compound thread_var is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/mpu.h:27: warning: Member MPU_CTRL_ENABLE (macro definition) of file mpu.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/mpu.h:33: warning: Member MPU_RNR_REGION_MAX (macro definition) of file mpu.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/mpu.h:39: warning: Member MPU_RASR_SIZE (macro definition) of file mpu.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/mpu.h:40: warning: Member MPU_RASR_ENABLE (macro definition) of file mpu.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/mpu.h:41: warning: Member MPU_RASR_USER_RO (macro definition) of file mpu.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/mpu.h:42: warning: Member MPU_RASR_USER_RW (macro definition) of file mpu.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/printk.h:16: warning: Member RTT_PRINTK_BUFFER_SIZE (macro definition) of file printk.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/printk.h:18: warning: Member FORMAT_LEFT_JUSTIFY (macro definition) of file printk.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/printk.h:19: warning: Member FORMAT_PAD_ZERO (macro definition) of file printk.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/printk.h:20: warning: Member FORMAT_PRINT_SIGN (macro definition) of file printk.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/printk.h:21: warning: Member FORMAT_ALTERNATE (macro definition) of file printk.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/src/printk.c:313: warning: Found unknown command '@function'
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/src/printk.c:297: warning: Found unknown command '@function'
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/src/printk.c:297: warning: argument 'number' of command @param is not found in the argument list of rtt_printk(uint32_t buffer_index, const char *s_fmt,...)
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/printk.h:37: warning: Found unknown command '@function'
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/printk.h:35: warning: argument 'number' of command @param is not found in the argument list of rtt_vprintk(uint32_t buffer_index, const char *s_fmt, va_list *p_params)
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/rtt.h:16: warning: Member RTT_MAX_UP_BUFFERS (macro definition) of file rtt.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/rtt.h:17: warning: Member RTT_MAX_DOWN_BUFFERS (macro definition) of file rtt.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/rtt.h:18: warning: Member BUFFER_SIZE_UP (macro definition) of file rtt.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/rtt.h:19: warning: Member BUFFER_SIZE_DOWN (macro definition) of file rtt.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/syscall_mutex.h:52: warning: argument 'mutex' from the argument list of sys_mutex_lock has multiple @param documentation sections
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/syscall_mutex.h:59: warning: argument 'mutex' from the argument list of sys_mutex_unlock has multiple @param documentation sections
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/syscall_thread.h:58: warning: argument 'frequency' from the argument list of sys_scheduler_start has multiple @param documentation sections
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/syscall_thread.h:51: warning: argument 'fn' from the argument list of sys_thread_create has multiple @param documentation sections
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/syscall_thread.h:51: warning: argument 'prio' from the argument list of sys_thread_create has multiple @param documentation sections
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/syscall_thread.h:51: warning: argument 'C' from the argument list of sys_thread_create has multiple @param documentation sections
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/syscall_thread.h:51: warning: argument 'T' from the argument list of sys_thread_create has multiple @param documentation sections
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/syscall_thread.h:51: warning: argument 'vargp' from the argument list of sys_thread_create has multiple @param documentation sections
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/syscall_thread.h:39: warning: argument 'max_threads' from the argument list of sys_thread_init has multiple @param documentation sections
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/syscall_thread.h:39: warning: argument 'stack_size' from the argument list of sys_thread_init has multiple @param documentation sections
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/syscall_thread.h:39: warning: argument 'idle_fn' from the argument list of sys_thread_init has multiple @param documentation sections
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/syscall_thread.h:39: warning: argument 'mem_protect' from the argument list of sys_thread_init has multiple @param documentation sections
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/syscall_thread.h:39: warning: argument 'max_mutexes' from the argument list of sys_thread_init has multiple @param documentation sections
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/src/mpu.c:17: warning: Member mm_c_handler(void *psp) (function) of file mpu.c is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/src/printk.c:313: warning: Found unknown command '@function'
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/src/printk.c:297: warning: Found unknown command '@function'
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/src/printk.c:297: warning: argument 'number' of command @param is not found in the argument list of rtt_printk(uint32_t buffer_index, const char *s_fmt,...)
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/printk.h:37: warning: Found unknown command '@function'
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/printk.h:35: warning: argument 'number' of command @param is not found in the argument list of rtt_vprintk(uint32_t buffer_index, const char *s_fmt, va_list *p_params)
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_common/include/lib642.h:16: warning: Member UNUSED (macro definition) of file lib642.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_common/include/lib642.h:17: warning: Member intrinsic (macro definition) of file lib642.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_common/include/lib642.h:19: warning: Member RET_GOOD (macro definition) of file lib642.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_common/include/lib642.h:20: warning: Member RET_FAIL (macro definition) of file lib642.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_common/include/lib642.h:21: warning: Member RET_0642 (macro definition) of file lib642.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_common/include/lib642.h:23: warning: Member mpu_mode (enumeration) of file lib642.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_common/include/lib642.h:68: warning: Member thread_kill() (function) of file lib642.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_common/include/lib642.h:194: warning: Member print_num_status_cnt(int thread_num, int cnt) (function) of file lib642.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_common/include/lib642.h:195: warning: Member print_status(char *thread_name) (function) of file lib642.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_common/include/lib642.h:196: warning: Member print_status_prio(char *thread_name) (function) of file lib642.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_common/include/lib642.h:197: warning: Member print_status_cnt(char *thread_name, int cnt) (function) of file lib642.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_common/include/lib642.h:198: warning: Member print_status_prio_cnt(char *thread_name, int cnt) (function) of file lib642.h is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_common/include/lib642.h:188: warning: argument 'thread_name' of command @param is not found in the argument list of print_num_status(int thread_num)
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_common/include/lib642.h:188: warning: argument 'cnt' of command @param is not found in the argument list of print_num_status(int thread_num)
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_common/include/lib642.h:71: warning: argument 'freq' of command @param is not found in the argument list of scheduler_start(uint32_t frequency)
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_common/include/lib642.h:82: warning: The following parameter of scheduler_start(uint32_t frequency) is not documented:
+  parameter 'frequency'
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_common/src/lib642.c:32: warning: Member print_num_status_cnt(int thread_num, int cnt) (function) of file lib642.c is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_common/src/lib642.c:36: warning: Member print_status(char *thread_name) (function) of file lib642.c is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_common/src/lib642.c:40: warning: Member print_status_cnt(char *thread_name, int cnt) (function) of file lib642.c is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_common/src/lib642.c:44: warning: Member print_status_prio(char *thread_name) (function) of file lib642.c is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_common/src/lib642.c:48: warning: Member print_status_prio_cnt(char *thread_name, int cnt) (function) of file lib642.c is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_common/include/lib642.h:188: warning: argument 'thread_name' of command @param is not found in the argument list of print_num_status(int thread_num)
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_common/include/lib642.h:188: warning: argument 'cnt' of command @param is not found in the argument list of print_num_status(int thread_num)
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/grade_pcp/src/main.c:38: warning: Member mutex_0 (variable) of struct arg_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/grade_pcp/src/main.c:39: warning: Member mutex_2 (variable) of struct arg_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/grade_pcp/src/main.c:40: warning: Member mutex_3 (variable) of struct arg_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_7_2/src/main.c:40: warning: Member mutex_1 (variable) of struct arg_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/test_7_2/src/main.c:41: warning: Member done (variable) of struct arg_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_common/include/lib642.h:115: warning: Member unused (variable) of struct mutex_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/rtt.h:33: warning: Member name (variable) of struct rtt_buffer_down_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/rtt.h:34: warning: Member p_buffer (variable) of struct rtt_buffer_down_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/rtt.h:35: warning: Member buffer_size (variable) of struct rtt_buffer_down_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/rtt.h:36: warning: Member pos_wr (variable) of struct rtt_buffer_down_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/rtt.h:37: warning: Member pos_rd (variable) of struct rtt_buffer_down_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/rtt.h:38: warning: Member flags (variable) of struct rtt_buffer_down_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/rtt.h:23: warning: Member name (variable) of struct rtt_buffer_up_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/rtt.h:24: warning: Member p_buffer (variable) of struct rtt_buffer_up_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/rtt.h:25: warning: Member buffer_size (variable) of struct rtt_buffer_up_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/rtt.h:26: warning: Member pos_wr (variable) of struct rtt_buffer_up_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/rtt.h:27: warning: Member pos_rd (variable) of struct rtt_buffer_up_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/rtt.h:28: warning: Member flags (variable) of struct rtt_buffer_up_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/rtt.h:43: warning: Member id[16] (variable) of struct rtt_control_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/rtt.h:44: warning: Member num_up_buffers (variable) of struct rtt_control_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/rtt.h:45: warning: Member num_down_buffers (variable) of struct rtt_control_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/rtt.h:46: warning: Member up_buffers[RTT_MAX_UP_BUFFERS] (variable) of struct rtt_control_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/rtt.h:47: warning: Member down_buffers[RTT_MAX_DOWN_BUFFERS] (variable) of struct rtt_control_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/printk.h:25: warning: Member p_buffer (variable) of struct rtt_printk_desc_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/printk.h:26: warning: Member buffer_size (variable) of struct rtt_printk_desc_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/printk.h:27: warning: Member count (variable) of struct rtt_printk_desc_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/printk.h:28: warning: Member return_value (variable) of struct rtt_printk_desc_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/kernel/include/printk.h:29: warning: Member buffer_index (variable) of struct rtt_printk_desc_t is not documented.
+/home/aditya/Documents/lab-4-aditya-miguel/lab4/user_proj/grade_revive/src/main.c:24: warning: Member index (variable) of struct thread_var is not documented.
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/arm_8h__dep__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/arm_8h__dep__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_037da4326acd81b98f179cb944ad2bb9_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_037da4326acd81b98f179cb944ad2bb9_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_052e39cf330b9b95865d907ebd9c7000_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_052e39cf330b9b95865d907ebd9c7000_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_02a28c68aaf72fe803ad7fdb5683367e_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_02a28c68aaf72fe803ad7fdb5683367e_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_0c10fa75afa1c8d55e61a9189a29116d_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_0c10fa75afa1c8d55e61a9189a29116d_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/arm_8h__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/arm_8h__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_0df8e3f80446ba8244657b5498e9f9ed_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_0df8e3f80446ba8244657b5498e9f9ed_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/arm_8c__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/arm_8c__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_1794621c3b525510d431d86b3e3b8ba0_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_1794621c3b525510d431d86b3e3b8ba0_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_1452b01835096ae8c06fffc883c3cb50_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_1452b01835096ae8c06fffc883c3cb50_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_09cbdd4805226f6a896df4bd7168e2dc_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_09cbdd4805226f6a896df4bd7168e2dc_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_1a3494140c399637f9dae57370f71047_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_1a3494140c399637f9dae57370f71047_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_1d982d1210b61acffeb8255db44326e6_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_1d982d1210b61acffeb8255db44326e6_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_1e1b8f1ad60c9c480b05d2b81f0f6fd1_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_1e1b8f1ad60c9c480b05d2b81f0f6fd1_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_227dd242a36b9dfe3ecc5afc5f03734c_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_227dd242a36b9dfe3ecc5afc5f03734c_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_231565b6ff6f964b37cff4820e4b622e_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_231565b6ff6f964b37cff4820e4b622e_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_212b2a7c2c66d1488c84af39723c231d_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_212b2a7c2c66d1488c84af39723c231d_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_203f907b8c1f243fa3ba06d66840aab2_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_203f907b8c1f243fa3ba06d66840aab2_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_242def934891cad6d1e31462ca711160_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_242def934891cad6d1e31462ca711160_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_25b0e2df1c747750e97ee7c4eec34e4c_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_25b0e2df1c747750e97ee7c4eec34e4c_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_28819815b277712e361446365dae8542_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_28819815b277712e361446365dae8542_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_27b8ffb67235feb9444eeaaab084f297_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_27b8ffb67235feb9444eeaaab084f297_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_3334a3a2f2ee91af50e3fd304844103c_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_3334a3a2f2ee91af50e3fd304844103c_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_31b17f7716bdfb36d789756b208557e5_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_31b17f7716bdfb36d789756b208557e5_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_3a5750680ef3b28b662cb739d8664c22_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_3a5750680ef3b28b662cb739d8664c22_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_3773c1fd84989406e576420fb95ccc7d_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_3773c1fd84989406e576420fb95ccc7d_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_2d94292005e2eb6f15635ad856147d8d_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_2d94292005e2eb6f15635ad856147d8d_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_2d25b498c58e03af557d0fa3a0d9012f_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_2d25b498c58e03af557d0fa3a0d9012f_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_448de3f939e2dc0f6f1d0aebc9cf58c2_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_448de3f939e2dc0f6f1d0aebc9cf58c2_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_3a8190bd4726243ef13ed7196ff816b3_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_3a8190bd4726243ef13ed7196ff816b3_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_3bdcb3c4825d7e1ce526b06028a3bb91_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_3bdcb3c4825d7e1ce526b06028a3bb91_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_3dd30a497388ee684638f120a124721c_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_3dd30a497388ee684638f120a124721c_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_4c4bc5686ae9d584f5f5e2adb26a8c53_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_4c4bc5686ae9d584f5f5e2adb26a8c53_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_4a70db4c49d41263cf19e3e46ab071b9_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_4a70db4c49d41263cf19e3e46ab071b9_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_59f118ce2a30057a46f322b9b2ae1788_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_59f118ce2a30057a46f322b9b2ae1788_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_53d5cb40627e7c27c25f64604f44e046_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_53d5cb40627e7c27c25f64604f44e046_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_5f64a106f203d59632517dbc1d8962ef_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_5f64a106f203d59632517dbc1d8962ef_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_5572a6cd1d1c8f6405524ff2100b06a3_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_5572a6cd1d1c8f6405524ff2100b06a3_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_6973a6f6a5d035ba85ddf65ca0151437_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_6973a6f6a5d035ba85ddf65ca0151437_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_624213e56d5d5b8204d666c1653090bf_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_624213e56d5d5b8204d666c1653090bf_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_673964a49671026b362efbd3d1f3e5ca_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_673964a49671026b362efbd3d1f3e5ca_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_6d107a93f45b1c72c1e9590eeffd888e_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_6d107a93f45b1c72c1e9590eeffd888e_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_766f64d1bfa5af1e0b1f914da3ccd541_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_766f64d1bfa5af1e0b1f914da3ccd541_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_7b4e524accc1b60dba695ec1702fafb1_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_7b4e524accc1b60dba695ec1702fafb1_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_7e7a85f5c000c24a7cab22af3157419c_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_7e7a85f5c000c24a7cab22af3157419c_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_8b92454ff004cf971f6d9e0f16950f38_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_8b92454ff004cf971f6d9e0f16950f38_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_917e382b2acb853f1ccc58b2793ae86b_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_917e382b2acb853f1ccc58b2793ae86b_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_9ac4ab91237a4dba4333fe4801342af6_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_9ac4ab91237a4dba4333fe4801342af6_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_91fb67ba69d6f436cf2cbaf704b44b23_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_91fb67ba69d6f436cf2cbaf704b44b23_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_969c5afa03ac9e5708d39ffe17be8e62_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_969c5afa03ac9e5708d39ffe17be8e62_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_af9401cdc10bd75e69b92404182deba7_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_af9401cdc10bd75e69b92404182deba7_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_895200e448b6f23453cc708eaabf14fb_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_895200e448b6f23453cc708eaabf14fb_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_b8af54366d567ff146827eaa538b86ac_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_b8af54366d567ff146827eaa538b86ac_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_c03725e1670b11faabdcd45ad8d74622_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_c03725e1670b11faabdcd45ad8d74622_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_a87b76fc8d0f83210a3bf0d264c19134_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_a87b76fc8d0f83210a3bf0d264c19134_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_c1f464140e80de8bbb2add5b4280d152_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_c1f464140e80de8bbb2add5b4280d152_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_c16653cae24683c9dafbbbcde6d6522d_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_c16653cae24683c9dafbbbcde6d6522d_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_c7d6546bc9ba9aa5072b4e16ef660f97_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_c7d6546bc9ba9aa5072b4e16ef660f97_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_c833a312ce3058a0204407eaf38a758d_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_c833a312ce3058a0204407eaf38a758d_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_c9de537e4f9b6be155feb24ded25d79c_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_c9de537e4f9b6be155feb24ded25d79c_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_d00a248eb89104a3656037200855591c_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_d00a248eb89104a3656037200855591c_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_cae2ff0fcc46ea6aeffee667e842a436_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_cae2ff0fcc46ea6aeffee667e842a436_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_da0d882e74b8f65cd4ce018122c7b3d7_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_da0d882e74b8f65cd4ce018122c7b3d7_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_d5d6a726deb94908e1c109fc91e1aaeb_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_d5d6a726deb94908e1c109fc91e1aaeb_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_dc43877d82dd332f9fb2071fcca799d6_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_dc43877d82dd332f9fb2071fcca799d6_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_e14bed154f64726973f8725580a11f2a_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_e14bed154f64726973f8725580a11f2a_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_e228cd35a93ce1c28f2e5133859a2c37_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_e228cd35a93ce1c28f2e5133859a2c37_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_e4baed4c5eae01b2a59f60ad7e777d87_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_e4baed4c5eae01b2a59f60ad7e777d87_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_ebf0a8d445af709e4d1222d193feae30_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_ebf0a8d445af709e4d1222d193feae30_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_f78d96227a0d7b36ea99d9fa89ff61d0_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_f78d96227a0d7b36ea99d9fa89ff61d0_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_fa5b4ca31ab0cddac2acae6a332d8ec0_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_fa5b4ca31ab0cddac2acae6a332d8ec0_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_ff8a416722d54f9f52f34365f37d6b18_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_ff8a416722d54f9f52f34365f37d6b18_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_ed79f8016284c0703c4cd1f9ca03e032_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_ed79f8016284c0703c4cd1f9ca03e032_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_d45bc73d820585e1f7e983e70128c32d_dep.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_d45bc73d820585e1f7e983e70128c32d_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/gpio_8c__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/gpio_8c__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/gpio_8h__dep__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/gpio_8h__dep__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/kernel_8c__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/kernel_8c__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/graph_legend.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/graph_legend.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/lib642_8c__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/lib642_8c__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/lib642_8h__dep__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/lib642_8h__dep__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/gpio_8h__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/gpio_8h__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/lib642_8h__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/lib642_8h__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/mpu_8c__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/mpu_8c__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/mpu_8h__dep__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/mpu_8h__dep__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/mpu_8h__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/mpu_8h__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/printk_8h__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/printk_8h__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/printk_8c__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/printk_8c__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/printk_8h__dep__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/printk_8h__dep__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/reset_8h__dep__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/reset_8h__dep__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/rtt_8c__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/rtt_8c__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/reset_8c__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/reset_8c__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/rtt_8h__dep__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/rtt_8h__dep__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/rtt_8h__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/rtt_8h__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/structarg__t__coll__graph.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/structarg__t__coll__graph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/structstack__frame__m__coll__graph.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/structstack__frame__m__coll__graph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/structtcb__t__coll__graph.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/structtcb__t__coll__graph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/structrtt__control__t__coll__graph.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/structrtt__control__t__coll__graph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/svc__handler_8h__dep__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/svc__handler_8h__dep__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/svc__num_8h__dep__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/svc__num_8h__dep__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/svc__handler_8c__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/svc__handler_8c__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/syscall_8c__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/syscall_8c__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/syscall_8h__dep__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/syscall_8h__dep__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/syscall__mutex_8h__dep__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/syscall__mutex_8h__dep__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/syscall__thread_8h__dep__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/syscall__thread_8h__dep__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/syscall__thread_8h__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/syscall__thread_8h__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/syscall__mutex_8h__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/syscall__mutex_8h__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/timer_8c__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/timer_8c__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/syscall__thread_8c__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/syscall__thread_8c__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/timer_8h__dep__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/timer_8h__dep__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/timer_8h__incl.dot" -Tpng -o "/home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/timer_8h__incl.png"'
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/arm_8c__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/arm_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/arm_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_02a28c68aaf72fe803ad7fdb5683367e_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_037da4326acd81b98f179cb944ad2bb9_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_052e39cf330b9b95865d907ebd9c7000_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_09cbdd4805226f6a896df4bd7168e2dc_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_0c10fa75afa1c8d55e61a9189a29116d_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_0df8e3f80446ba8244657b5498e9f9ed_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_1452b01835096ae8c06fffc883c3cb50_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_1794621c3b525510d431d86b3e3b8ba0_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_1a3494140c399637f9dae57370f71047_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_1d982d1210b61acffeb8255db44326e6_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_1e1b8f1ad60c9c480b05d2b81f0f6fd1_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_203f907b8c1f243fa3ba06d66840aab2_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_212b2a7c2c66d1488c84af39723c231d_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_227dd242a36b9dfe3ecc5afc5f03734c_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_231565b6ff6f964b37cff4820e4b622e_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_242def934891cad6d1e31462ca711160_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_25b0e2df1c747750e97ee7c4eec34e4c_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_27b8ffb67235feb9444eeaaab084f297_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_28819815b277712e361446365dae8542_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_2d25b498c58e03af557d0fa3a0d9012f_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_2d94292005e2eb6f15635ad856147d8d_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_31b17f7716bdfb36d789756b208557e5_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_3334a3a2f2ee91af50e3fd304844103c_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_3773c1fd84989406e576420fb95ccc7d_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_3a5750680ef3b28b662cb739d8664c22_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_3a8190bd4726243ef13ed7196ff816b3_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_3bdcb3c4825d7e1ce526b06028a3bb91_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_3dd30a497388ee684638f120a124721c_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_448de3f939e2dc0f6f1d0aebc9cf58c2_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_4a70db4c49d41263cf19e3e46ab071b9_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_4c4bc5686ae9d584f5f5e2adb26a8c53_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_53d5cb40627e7c27c25f64604f44e046_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_5572a6cd1d1c8f6405524ff2100b06a3_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_59f118ce2a30057a46f322b9b2ae1788_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_5f64a106f203d59632517dbc1d8962ef_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_624213e56d5d5b8204d666c1653090bf_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_673964a49671026b362efbd3d1f3e5ca_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_6973a6f6a5d035ba85ddf65ca0151437_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_6d107a93f45b1c72c1e9590eeffd888e_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_766f64d1bfa5af1e0b1f914da3ccd541_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_7b4e524accc1b60dba695ec1702fafb1_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_7e7a85f5c000c24a7cab22af3157419c_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_895200e448b6f23453cc708eaabf14fb_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_8b92454ff004cf971f6d9e0f16950f38_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_917e382b2acb853f1ccc58b2793ae86b_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_91fb67ba69d6f436cf2cbaf704b44b23_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_969c5afa03ac9e5708d39ffe17be8e62_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_9ac4ab91237a4dba4333fe4801342af6_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_a87b76fc8d0f83210a3bf0d264c19134_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_af9401cdc10bd75e69b92404182deba7_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_b8af54366d567ff146827eaa538b86ac_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_c03725e1670b11faabdcd45ad8d74622_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_c16653cae24683c9dafbbbcde6d6522d_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_c1f464140e80de8bbb2add5b4280d152_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_c7d6546bc9ba9aa5072b4e16ef660f97_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_c833a312ce3058a0204407eaf38a758d_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_c9de537e4f9b6be155feb24ded25d79c_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_cae2ff0fcc46ea6aeffee667e842a436_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_d00a248eb89104a3656037200855591c_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_d45bc73d820585e1f7e983e70128c32d_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_d5d6a726deb94908e1c109fc91e1aaeb_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_da0d882e74b8f65cd4ce018122c7b3d7_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_dc43877d82dd332f9fb2071fcca799d6_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_e14bed154f64726973f8725580a11f2a_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_e228cd35a93ce1c28f2e5133859a2c37_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_e4baed4c5eae01b2a59f60ad7e777d87_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_ebf0a8d445af709e4d1222d193feae30_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_ed79f8016284c0703c4cd1f9ca03e032_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_f78d96227a0d7b36ea99d9fa89ff61d0_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_fa5b4ca31ab0cddac2acae6a332d8ec0_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/dir_ff8a416722d54f9f52f34365f37d6b18_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/gpio_8c__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/gpio_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/gpio_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/kernel_8c__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/lib642_8c__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/lib642_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/lib642_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/mpu_8c__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/mpu_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/mpu_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/printk_8c__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/printk_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/printk_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/reset_8c__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/reset_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/rtt_8c__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/rtt_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/rtt_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/structarg__t__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/structrtt__control__t__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/structstack__frame__m__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/structtcb__t__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/svc__handler_8c__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/svc__handler_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/svc__num_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/syscall_8c__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/syscall_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/syscall__mutex_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/syscall__mutex_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/syscall__thread_8c__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/syscall__thread_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/syscall__thread_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/timer_8c__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/timer_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/aditya/Documents/lab-4-aditya-miguel/lab4/doxygen_docs/timer_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.

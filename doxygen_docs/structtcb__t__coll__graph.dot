@@ -1,0 +1,11 @@
+digraph "tcb_t"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="tcb_t",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="struct used to represent Thread Control Block (TCB)"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" msp" ,fontname="Helvetica"];
+  Node2 [label="stack_frame_m",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structstack__frame__m.html",tooltip="struct used to handle kernel stack. Needs to be correctly aligned so stack values match struct fields"];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" psp" ,fontname="Helvetica"];
+  Node3 [label="stack_frame_p",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structstack__frame__p.html",tooltip="struct for easy access to stack frame after calling pendsv_c_handler"];
+}
